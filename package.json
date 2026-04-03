@@ -1,0 +1,13 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "cypress": "^14.3.2"
+  }
+}
